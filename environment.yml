@@ -1,0 +1,14 @@
+name: data-science
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - jupyter
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
